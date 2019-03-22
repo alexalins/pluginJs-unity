@@ -1,4 +1,4 @@
-# pluginJs Unity
+# Plugin Js no Unity
 
 ### Plugin para salvar dados do jogo no localStorage em jogos usando WebGL
 
@@ -17,5 +17,5 @@ using System.Runtime.InteropServices;
   private static extern void myFunction();
 ```
 
-##### [PLugin.jslib](https://github.com/alexalins/pluginJs-unity/blob/master/Assets/Plugins/WebGL/PluginName.jslib)
+##### [Plugin.jslib](https://github.com/alexalins/pluginJs-unity/blob/master/Assets/Plugins/WebGL/PluginName.jslib)
 ##### [Código C#](https://github.com/alexalins/pluginJs-unity/blob/master/Assets/Script/TesteScript.cs)
