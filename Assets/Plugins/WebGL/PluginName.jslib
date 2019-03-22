@@ -8,6 +8,6 @@ var MyPlugin = {
       var texto = localStorage.getItem("texto");
       window.alert(texto);
       console.log(texto);
-    },
+    }
 };
 mergeInto(LibraryManager.library, MyPlugin);
